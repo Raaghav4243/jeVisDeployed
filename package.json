@@ -2,7 +2,7 @@
   "name": "jeloop-visualizer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kamronbekshodmonov.github.io/JELoop-Visualizer",
+  "homepage": "https://raaghav4243.github.io/jeVisDeployed",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
